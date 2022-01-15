@@ -1,5 +1,5 @@
 # TIL
-> Today I learned
+> Today I Learned
 
 My own collection of daily learnings during my time as a developer, inspired by [thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til). 
 
@@ -15,6 +15,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 ### Angular
 
 - [What is a TestBed](angular/what-is-a-testbed.md)
+- [Platform Browser Dynamic](angular/platform-browser-dynamic.md)
 
 ### CSS
 
