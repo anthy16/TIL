@@ -10,7 +10,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 
 - [Angular](#angular)
 - [CSS](#css)
-- [C#](#c\#)
+- [C#](#c%23)
 
 ---
 
@@ -25,7 +25,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 
 ### C\#
 
-- [Structure Types](c#/structure-types.md)
+- [Structure Types](c%23/structure-types.md)
 
 ## License
 
