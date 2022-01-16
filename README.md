@@ -10,7 +10,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 
 - [Angular](#angular)
 - [CSS](#css)
-- [C#](#c#)
+- [C#](#c\#)
 
 ---
 
@@ -23,7 +23,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 
 - [Support Dark-Mode](css/support-dark-mode.md)
 
-## C\#
+### C\#
 
 - [Structure Types](c#/structure-types.md)
 
