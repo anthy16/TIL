@@ -1,14 +1,16 @@
 # TIL
+
 > Today I Learned
 
-My own collection of daily learnings during my time as a developer, inspired by [thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til). 
+My own collection of daily learnings during my time as a developer, inspired by [thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ---
 
 ### Categories
 
-* [Angular](#angular)
-* [CSS](#css)
+- [Angular](#angular)
+- [CSS](#css)
+- [C#](#c#)
 
 ---
 
@@ -20,6 +22,10 @@ My own collection of daily learnings during my time as a developer, inspired by 
 ### CSS
 
 - [Support Dark-Mode](css/support-dark-mode.md)
+
+## C\#
+
+- [Structure Types](c#/structure-types.md)
 
 ## License
 
