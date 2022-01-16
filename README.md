@@ -10,7 +10,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 
 - [Angular](#angular)
 - [CSS](#css)
-- [C#](#c%23)
+- [C#](#c)
 
 ---
 
