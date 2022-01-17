@@ -23,7 +23,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 ### TypeScript
 
 - [Add types To An Object Destructuring](typescript/add-types-to-an-object-destructuring.md)
-- [Use Partial For Optional Properties](typescript/add-types-to-an-object-destructuring.md)
+- [Use Partial For Optional Properties](typescript/use-partial-for-optional-properties.md)
 
 ### CSS
 
