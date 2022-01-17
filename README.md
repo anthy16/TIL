@@ -9,6 +9,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 ### Categories
 
 - [Angular](#angular)
+- [TypeScript](#typescript)
 - [CSS](#css)
 - [C#](#c)
 
@@ -16,8 +17,13 @@ My own collection of daily learnings during my time as a developer, inspired by 
 
 ### Angular
 
-- [What is a TestBed](angular/what-is-a-testbed.md)
+- [What Is A TestBed](angular/what-is-a-testbed.md)
 - [Platform Browser Dynamic](angular/platform-browser-dynamic.md)
+
+### TypeScript
+
+- [Add types To An Object Destructuring](typescript/add-types-to-an-object-destructuring.md)
+- [Use Partial For Optional Properties](typescript/add-types-to-an-object-destructuring.md)
 
 ### CSS
 
