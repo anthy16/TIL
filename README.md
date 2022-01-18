@@ -32,6 +32,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 ### C\#
 
 - [Structure Types](c%23/structure-types.md)
+- [What Is Reflection](c%23/what-is-reflection.md)
 
 ## License
 
