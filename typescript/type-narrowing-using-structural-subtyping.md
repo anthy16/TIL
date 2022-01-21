@@ -39,7 +39,7 @@ const petDog = ({ name }: { name: string }) => {
   console.log(`Petting ${dog.name}. What a good boy!`);
 };
 
-let pet: Pet = { name: "bob" };
+let pet: Pet = { name: "bob", tricks: ['sit'], color: 'brown' };
 
 petDog(pet);
 // "Petting bob. What a good boy!"
