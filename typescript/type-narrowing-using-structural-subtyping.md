@@ -8,9 +8,11 @@ Due to this, the following code is valid in TypeScript:
 interface Pet {
   name: string;
 }
+
 class Dog {
   name: string;
 }
+
 let pet: Pet;
 
 pet = new Dog(); // OK, because of structural typing
@@ -18,7 +20,7 @@ pet = new Dog(); // OK, because of structural typing
 
 Similarly, the structural typing capabilities of TypeScript can be used for [type narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html).
 
-First, let us expand out `Pet` interface, with the following properties:
+First, let us expand our `Pet` interface, with the following properties:
 
 ```javascript
 interface Pet {
