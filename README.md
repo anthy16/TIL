@@ -30,6 +30,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 ### CSS
 
 - [Support Dark-Mode](css/support-dark-mode.md)
+- [Handling Breakpoints With Mixins](css/handling-breakpoints-with-mixins.md)
 
 ### C\#
 
