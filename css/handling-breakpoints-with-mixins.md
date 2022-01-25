@@ -2,7 +2,7 @@
 
 Oftentimes, a website will need to change appearance, based on the current screen size. I like to break my website layout down three times. One for mobile, one for tablets and one for desktop.
 
-Using the following code, a mixin - `respond-to` - gets created and a list of breakpoints get set in an SCSS variable. `respond-to` takes an entry from this list and breaks down when reaching `max-width`. Should a value be used that isn't contained withing `$breakpoints`, the mixin will issue a warning. 
+Using the following code, a mixin - `respond-to` - gets created and a list of breakpoints are set in an SCSS variable. `respond-to` takes an entry from this `$breakpoints` and breaks down when the screen size reaches `max-width`. Should a value be used that isn't contained within `$breakpoints`, the mixin will issue a warning. 
 
 ```scss
 $breakpoints: (
