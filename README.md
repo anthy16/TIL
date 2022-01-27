@@ -19,6 +19,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 
 - [What Is A TestBed](angular/what-is-a-testbed.md)
 - [Platform Browser Dynamic](angular/platform-browser-dynamic.md)
+- [Avoid Nested Subscriptions With Pipe And SwitchMap](angular/avoid-nested-subscriptions-with-pipe-and-switchmap.md)
 
 ### TypeScript
 
