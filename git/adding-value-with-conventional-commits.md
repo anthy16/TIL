@@ -12,7 +12,7 @@ I would never commit code with just an empty message ` ` - and yet I often find 
 [optional footer(s)]
 ```
 
-The type explains what you're doing. Fixing a bug? Use _fix_. Adding a feature? Use _feat_. There's a couple of other types you can use, found at [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional).
+The type explains what you're doing. Fixing a bug? Use _fix_. Adding a feature? Use _feat_. There's a couple of other types you can use, found at [@commitlint/config-conventional](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional). These are based on the [Angular convention](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines);
 
 The description field is what you're doing in said commit. The body can be used to detail this further.
 
