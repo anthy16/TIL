@@ -12,6 +12,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 - [TypeScript](#typescript)
 - [CSS](#css)
 - [C#](#c)
+- [Git](#git)
 
 ---
 
@@ -39,6 +40,10 @@ My own collection of daily learnings during my time as a developer, inspired by 
 
 - [Structure Types](c%23/structure-types.md)
 - [What Is Reflection](c%23/what-is-reflection.md)
+
+### Git
+
+- [Adding Value with Conventional Commits](git/adding-value-with-conventional-commits.md)
 
 ## License
 
