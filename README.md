@@ -13,6 +13,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 - [CSS](#css)
 - [C#](#c)
 - [Git](#git)
+- [HTML](#html)
 
 ---
 
@@ -44,6 +45,10 @@ My own collection of daily learnings during my time as a developer, inspired by 
 ### Git
 
 - [Adding Value with Conventional Commits](git/adding-value-with-conventional-commits.md)
+
+### HTML
+
+- [Lazy Loading Iframes](html/lazy-loading-iframes.md)
 
 ## License
 
