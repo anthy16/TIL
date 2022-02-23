@@ -14,6 +14,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 - [C#](#c)
 - [Git](#git)
 - [HTML](#html)
+- [HTTP](#http)
 
 ---
 
@@ -49,6 +50,10 @@ My own collection of daily learnings during my time as a developer, inspired by 
 ### HTML
 
 - [Lazy Loading Iframes](html/lazy-loading-iframes.md)
+
+### HTTP
+
+- [What Counts as Cross-Origin with CORS](http/what-counts-as-cross-origin-with-cors.md)
 
 ## License
 
