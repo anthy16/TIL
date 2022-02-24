@@ -25,6 +25,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 - [Avoid Nested Subscriptions With Pipe And SwitchMap](angular/avoid-nested-subscriptions-with-pipe-and-switchmap.md)
 - [Defining Async Observable As Let In Template](angular/defining-async-observable-as-let-in-template.md)
 - [Awaiting Subscribes](angular/awaiting-subscribes.md)
+- [Limiting Re-renders with OnPush](angular/limiting-re-renders-with-on-push.md)
 
 ### TypeScript
 
