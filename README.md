@@ -15,6 +15,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 - [Git](#git)
 - [HTML](#html)
 - [HTTP](#http)
+- [Postman](#postman)
 
 ---
 
@@ -55,6 +56,10 @@ My own collection of daily learnings during my time as a developer, inspired by 
 ### HTTP
 
 - [What Counts as Cross-Origin with CORS](http/what-counts-as-cross-origin-with-cors.md)
+
+### Postman
+
+- [Adding Cookies to Requests](postman/adding-cookies-to-requests.md)
 
 ## License
 
