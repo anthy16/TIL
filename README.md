@@ -39,6 +39,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 
 - [Support Dark-Mode](css/support-dark-mode.md)
 - [Handling Breakpoints With Mixins](css/handling-breakpoints-with-mixins.md)
+- [Using Maps in SCSS](css/using-maps-in-scss.md)
 
 ### C\#
 
