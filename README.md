@@ -27,6 +27,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 - [Defining Async Observable As Let In Template](angular/defining-async-observable-as-let-in-template.md)
 - [Awaiting Subscribes](angular/awaiting-subscribes.md)
 - [Limiting Re-renders with OnPush](angular/limiting-re-renders-with-on-push.md)
+- [Handling ViewChild ElementRef Undefined](angular/handling-viewchild-elementref-undefined.md)
 
 ### TypeScript
 
