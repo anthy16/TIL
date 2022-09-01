@@ -16,6 +16,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 - [HTML](#html)
 - [HTTP](#http)
 - [Postman](#postman)
+- [Azure DevOps](#azure-devops)
 
 ---
 
@@ -63,6 +64,10 @@ My own collection of daily learnings during my time as a developer, inspired by 
 ### Postman
 
 - [Adding Cookies to Requests](postman/adding-cookies-to-requests.md)
+
+### Azure DevOps
+
+- [Fixing Private NuGet Feed Throwing 404](azuredevops/fixing-private-nuget-feed-404.md)
 
 ## License
 
