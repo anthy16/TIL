@@ -48,6 +48,7 @@ My own collection of daily learnings during my time as a developer, inspired by 
 - [Structure Types](c%23/structure-types.md)
 - [What Is Reflection](c%23/what-is-reflection.md)
 - [Viewing Logs in Event Viewer](c%23/viewing-logs-in-event-viewer.md)
+- [Increment Operator Variations](c%23/increment-operator-variations.md)
 
 ### Git
 
